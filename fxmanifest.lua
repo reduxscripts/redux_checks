@@ -9,13 +9,13 @@ shared_scripts {
     '@ncfw/imports.lua',
     '@es_extended/imports.lua',
     '@ncfw/imports.lua'
-    
-} 
+
+}
 
 client_scripts {
    -- 'client/cl.lua',
     'client/init.lua',
-    
+
 }
 
 
